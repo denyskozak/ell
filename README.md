@@ -1,12 +1,11 @@
-NX mono-repo: https://nx.dev/
+Links:
+- NX mono-repo: https://nx.dev/
+- Atomic Pattern: https://atomicdesign.bradfrost.com/chapter-2/
+- Visx (Graphs, Charts): https://airbnb.io/visx/
+- Storybook: https://storybook.js.org/
+- UI testing: https://www.cypress.io/
 
-Atomic Pattern: https://atomicdesign.bradfrost.com/chapter-2/
+Files structure sample: https://github.com/denyskozak/Web3-balances-checker/tree/master/src
 
-Visx (Graphs, Charts): https://airbnb.io/visx/
-
-Storybook: https://storybook.js.org/
-
-UI testing: https://www.cypress.io/
-
-![Ell drawio](https://github.com/denyskozak/ell/blob/main/Ell-1.drawio.png)
+![Ell drawio](https://github.com/denyskozak/ell/blob/main/Ell.drawio.png)
 
