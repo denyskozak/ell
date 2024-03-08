@@ -5,7 +5,5 @@ Links:
 - Storybook: https://storybook.js.org/
 - UI testing: https://www.cypress.io/
 
-Files structure sample: https://github.com/denyskozak/Web3-balances-checker/tree/master/src
-
 ![Ell drawio](https://github.com/denyskozak/ell/blob/main/Ell.drawio.png)
 
