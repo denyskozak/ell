@@ -5,5 +5,5 @@ Links:
 - Storybook: https://storybook.js.org/
 - UI testing: https://www.cypress.io/
 
-![Ell drawio](https://github.com/denyskozak/ell/blob/main/Ell.drawio-1.png)
+![Ell drawio](https://github.com/denyskozak/ell/blob/main/Ell.drawio.png)
 
